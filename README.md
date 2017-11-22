@@ -24,8 +24,7 @@ you will get (seemingly) identical products like this one:
 https://www.amazon.com/Logic-Analyzer-Device-Cable-Channel/dp/B06Y2TTFR1  
 Needless to say, the USA does everything bigger so you get a choice of about 8 similar products!
 
-I've placed the RTC (Real Time Clock) sketch from video #19 I use here (plus the I2C scanner) in my GitHub repository, super easy to download!  
-https://github.com/RalphBacon/Logic-Analyser
+I've placed the RTC (Real Time Clock) sketch from video #19 I use here (plus the I2C scanner) here in my GitHub repository, super easy to download!  
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please do so :)  
 
